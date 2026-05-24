@@ -10,4 +10,4 @@ projeto desenvolvido durante o cusro de JavaScript da alura.
 ## funcionalidades
 -sorteio de número Aleatório
 -sistema de tentativas
--Voz usando speechSynthesis
+-Voz no navegador
